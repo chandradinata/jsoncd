@@ -12,13 +12,25 @@
             "src": "https://3.bp.blogspot.com/-ykta1QmjbII/YQYhvr44aCI/AAAAAAAAAbo/Pqq6vLJ3xdMQCoRpkesU6L-Qjl7OTxS7QCK4BGAYYCw/s192/logo-chandradinata-ok.png",
             "sizes": "192x192",
             "type": "image/png",
-	          "purpose": "any maskable"
+	    "purpose": "any"
+        },
+	{
+            "src": "https://3.bp.blogspot.com/-ykta1QmjbII/YQYhvr44aCI/AAAAAAAAAbo/Pqq6vLJ3xdMQCoRpkesU6L-Qjl7OTxS7QCK4BGAYYCw/s192/logo-chandradinata-ok.png",
+            "sizes": "192x192",
+            "type": "image/png",
+	    "purpose": "maskable"
         },
         {
             "src": "https://3.bp.blogspot.com/-ykta1QmjbII/YQYhvr44aCI/AAAAAAAAAbo/Pqq6vLJ3xdMQCoRpkesU6L-Qjl7OTxS7QCK4BGAYYCw/s512/logo-chandradinata-ok.png",
             "sizes": "512x512",
             "type": "image/png",
-	          "purpose": "any maskable"
+	    "purpose": "any"
+        },
+	{
+            "src": "https://3.bp.blogspot.com/-ykta1QmjbII/YQYhvr44aCI/AAAAAAAAAbo/Pqq6vLJ3xdMQCoRpkesU6L-Qjl7OTxS7QCK4BGAYYCw/s512/logo-chandradinata-ok.png",
+            "sizes": "512x512",
+            "type": "image/png",
+	    "purpose": "maskable"
         }
     ]
 }
